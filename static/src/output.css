@@ -938,16 +938,16 @@ input[type="range"]::-ms-fill-lower {
   margin-right: auto;
 }
 
-.mt-4 {
-  margin-top: 1rem;
-}
-
 .ml-3 {
   margin-left: 0.75rem;
 }
 
 .mr-3 {
   margin-right: 0.75rem;
+}
+
+.mt-4 {
+  margin-top: 1rem;
 }
 
 .block {
@@ -978,12 +978,12 @@ input[type="range"]::-ms-fill-lower {
   width: 50%;
 }
 
-.w-64 {
-  width: 16rem;
-}
-
 .w-6 {
   width: 1.5rem;
+}
+
+.w-64 {
+  width: 16rem;
 }
 
 .w-full {
@@ -1133,11 +1133,6 @@ input[type="range"]::-ms-fill-lower {
   line-height: 2.25rem;
 }
 
-.text-green-800 {
-  --tw-text-opacity: 1;
-  color: rgb(3 84 63 / var(--tw-text-opacity));
-}
-
 .text-gray-500 {
   --tw-text-opacity: 1;
   color: rgb(107 114 128 / var(--tw-text-opacity));
@@ -1146,6 +1141,11 @@ input[type="range"]::-ms-fill-lower {
 .text-gray-700 {
   --tw-text-opacity: 1;
   color: rgb(55 65 81 / var(--tw-text-opacity));
+}
+
+.text-green-800 {
+  --tw-text-opacity: 1;
+  color: rgb(3 84 63 / var(--tw-text-opacity));
 }
 
 .text-white {
